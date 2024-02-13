@@ -1,2 +1,2 @@
 # jenkins
-jenkins padho be maza aa raha hai 
+Jenkins is op cicd tool but gitlab is love.
